@@ -50,7 +50,7 @@ def update_fps_text():
 while True:
 
     current_time = pygame.time.get_ticks()
-    
+
     # 1. Event Handling
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
