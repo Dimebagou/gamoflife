@@ -1,0 +1,35 @@
+# Fichiers et répertoires générés automatiquement
+__pycache__/
+.vscode
+*.pyc
+*.pyo
+*.log
+*.swp
+
+# Fichiers de dépendances
+venv/
+*.venv/
+env/
+ENV/
+*.env
+.env.*
+
+# Fichiers d'environnement
+.env
+
+# Fichiers d'éditeur
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+.vscode/
+
+# Fichiers de configuration
+*.ini
+*.cfg
+*.conf
+
+# Fichiers spécifiques à Pygame (si nécessaire)
+pygame.log
+
+# Fichiers d'historique de session
+.history/
